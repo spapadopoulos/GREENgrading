@@ -2,5 +2,5 @@
 
 GREEN is a novel building energy performance grading system based on machine learning and city benchmarking data. The grading process is detailed below:
 
-![alt text](data/green_methodology.png)
+![alt text](data/GREEN_methodology.png)
 
