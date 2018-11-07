@@ -4,6 +4,10 @@ GREEN is a novel building energy performance grading system based on machine lea
 
 ![alt text](data/GREEN_methodology.png)
 
+<img src="data/GREEN_methodology.png" width="256" height="256" title="GREEN methodology">
+
 Full implementation details for every step can be found in [this notebook](https://github.com/spapadopoulos/GREENgrading/blob/master/notebooks/GREEN%20grading%20method.ipynb).
+
+More details in the method, application, and policy implications for climate change can be found in [this paper](https://www.sciencedirect.com/science/article/pii/S030626191831612X).
 
 
