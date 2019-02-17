@@ -12,7 +12,11 @@ The power of GREEN lies mainly on three axes:
 - Volume of data. GREEN is trained and validated on more than 7,500 residential buildings in New York City.
 - Contextualization. GREEN is a market-specific index, meaning the model is specifically trained on and for New York City buildings. This allows to capture energy dynamics that describe a particular building stock.
 
-_Note: Although GREEN grades are currently available for New York City, its system design is scalable and reproducible to any city with available energy benchmarking data._
+_Note: Although GREEN grades are currently available for New York City, the system is designed to be scalable and reproducible to any city with available energy benchmarking data._
+
+## Comparison between GREEN and EnergyStar
+
+In the Sankey plot below we see how GREEN compares with a grading system based on EnergyStar that was recently adopted in New York City. Notice that there is more than 40% on the grade classification between the two approaches. See `notebooks\GREEN grading method.ipynb`
 
 <img src="data/sankeyGREEN.png" title="GREEN vs. EnergyStar" width="600" height="500">
 
