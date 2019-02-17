@@ -4,7 +4,7 @@ GREEN is a novel building energy performance grading system based on __machine l
 
 <img src="data/GREEN_methodology.png" width="814" height="504" title="GREEN methodology">
 
-<img src="data/GREEN_methodology.png" width="654" height="404" title="GREEN methodology">
+<img src="data/GREEN_methodology.png" width="654" height="384" title="GREEN methodology">
 
 
 <img src="data/sankeyGREEN.png" title="GREEN vs. EnergyStar" width="600" height="500">
