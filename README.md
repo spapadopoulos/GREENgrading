@@ -16,13 +16,13 @@ _Note: Although GREEN grades are currently available for New York City, the syst
 
 ## Comparison between GREEN and EnergyStar
 
-In the Sankey plot below we see how GREEN compares with a grading system based on EnergyStar that was recently adopted in New York City. Notice that there is more than 40% on the grade classification between the two approaches. See `notebooks\GREEN grading method.ipynb`
+In the Sankey plot below we see how GREEN compares with a grading system based on EnergyStar that was recently adopted in New York City. Notice that there is more than 40% on the grade classification between the two approaches. See `GREEN grading method.ipynb` [here](https://github.com/spapadopoulos/GREENgrading/blob/master/notebooks/GREEN%20grading%20method.ipynb) to find out why and how GREEN outperforms EnergyStar, as well as step-by-step implementation details.
 
 <img src="data/sankeyGREEN.png" title="GREEN vs. EnergyStar" width="600" height="500">
 
 
-Full implementation details for every step can be found in [this notebook](https://github.com/spapadopoulos/GREENgrading/blob/master/notebooks/GREEN%20grading%20method.ipynb).
-
 More details in the GREEN method, its applications, and policy implications for climate action in cities can be found in [this paper](https://www.sciencedirect.com/science/article/pii/S030626191831612X).
+
+Please cite as: _Papadopoulos, S. and Kontokosta, C.E., 2019. Grading buildings on energy performance using city benchmarking data. Applied Energy, 233, pp.244-253._
 
 
