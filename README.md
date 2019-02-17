@@ -21,8 +21,6 @@ In the Sankey plot below we see how GREEN compares with a grading system based o
 <img src="data/sankeyGREEN.png" title="GREEN vs. EnergyStar" width="600" height="500">
 
 
-More details in the GREEN method, its applications, and policy implications for climate action in cities can be found in [this paper](https://www.sciencedirect.com/science/article/pii/S030626191831612X).
-
-Please cite as: _Papadopoulos, S. and Kontokosta, C.E., 2019. Grading buildings on energy performance using city benchmarking data. Applied Energy, 233, pp.244-253._
+More details in the GREEN method, its applications, and policy implications for climate action in cities can be found in [this paper](https://www.sciencedirect.com/science/article/pii/S030626191831612X). Please cite as: _Papadopoulos, S. and Kontokosta, C.E., 2019. Grading buildings on energy performance using city benchmarking data. Applied Energy, 233, pp.244-253._
 
 
